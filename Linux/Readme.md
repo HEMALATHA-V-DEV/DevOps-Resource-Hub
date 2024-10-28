@@ -94,6 +94,15 @@ Linux is maintained by a community of developers worldwide, including major orga
 - **Cost-effective:** Generally free to use, reducing software costs.
 - **Flexibility:** Can be customized for various applications, from servers to desktops.
 
+# File System Hierarchy
+
+- **Root Directory (/):** The starting point of the file system.
+Common Directories:
+- **/home:** User home directories.
+- **/etc:** Configuration files.
+- **/var:** Variable data (logs, databases).
+- **/bin:** Essential command binaries.
+
 ## Advantages
 - **Stability and Reliability:** Known for its stability and less frequent crashes.
 - **Security:** Strong permissions model and regular security updates.
