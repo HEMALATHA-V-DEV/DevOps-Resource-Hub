@@ -97,7 +97,6 @@ Linux is maintained by a community of developers worldwide, including major orga
 # File System Hierarchy
 
 - **Root Directory (/):** The starting point of the file system.
-Common Directories:
 - **/home:** User home directories.
 - **/etc:** Configuration files.
 - **/var:** Variable data (logs, databases).
