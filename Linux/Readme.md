@@ -287,6 +287,6 @@ Linux is maintained by a community of developers worldwide, including major orga
 - **`p`**: Paste copied or deleted content.
 - **`u`**: Undo the last change.
 - **`:X`**: Encrypt the file.
-- 
+  
 ---
 
